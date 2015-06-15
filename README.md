@@ -17,7 +17,7 @@
 #         under the License.
 -->
 
-# What is this project?
+# What is this?
 
 This is a fork of [cordova-plugin-media-capture](https://github.com/apache/cordova-plugin-media-capture). It allows to use front camera and save videos in Camera Roll. Tested only in iOS.
 
